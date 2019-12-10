@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/controladops/static/css/main.8d864bd0.chunk.css",
+    "main.js": "/controladops/static/js/main.f1b6135b.chunk.js",
+    "main.js.map": "/controladops/static/js/main.f1b6135b.chunk.js.map",
+    "runtime-main.js": "/controladops/static/js/runtime-main.856d6c77.js",
+    "runtime-main.js.map": "/controladops/static/js/runtime-main.856d6c77.js.map",
+    "static/css/2.b90ce945.chunk.css": "/controladops/static/css/2.b90ce945.chunk.css",
+    "static/js/2.01f60376.chunk.js": "/controladops/static/js/2.01f60376.chunk.js",
+    "static/js/2.01f60376.chunk.js.map": "/controladops/static/js/2.01f60376.chunk.js.map",
+    "index.html": "/controladops/index.html",
+    "precache-manifest.77265e8c4454b8ae3a7369227a174eb2.js": "/controladops/precache-manifest.77265e8c4454b8ae3a7369227a174eb2.js",
+    "service-worker.js": "/controladops/service-worker.js",
+    "static/css/2.b90ce945.chunk.css.map": "/controladops/static/css/2.b90ce945.chunk.css.map",
+    "static/css/main.8d864bd0.chunk.css.map": "/controladops/static/css/main.8d864bd0.chunk.css.map",
+    "static/media/all.min.css": "/controladops/static/media/fa-solid-900.ef3df984.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.856d6c77.js",
+    "static/css/2.b90ce945.chunk.css",
+    "static/js/2.01f60376.chunk.js",
+    "static/css/main.8d864bd0.chunk.css",
+    "static/js/main.f1b6135b.chunk.js"
+  ]
+}

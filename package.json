@@ -1,0 +1,40 @@
+{
+  "name": "react-jwt-authentication-example",
+  "version": "0.0.0",
+  "homepage": "https://annalectbox.com.gt/controladops/",
+  "private": true,
+  "dependencies": {
+    "formik": "^1.5.2",
+    "history": "^4.9.0",
+    "jquery": "^3.4.1",
+    "react": "^16.4.1",
+    "react-currency-format": "^1.0.0",
+    "react-datepicker": "^2.10.1",
+    "react-dom": "^16.8.6",
+    "react-router-dom": "^5.0.0",
+    "reactstrap": "^8.1.1",
+    "rxjs": "^6.3.3",
+    "yup": "^0.27.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
